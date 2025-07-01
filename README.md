@@ -15,3 +15,8 @@
 
 ### Other Certificates
 - [“Introductiom to AI” from IBM at Coursera](https://github.com/Cali4orniaGirl/mycertifications/blob/main/Other/Coursera_Introductiom_to_AI.pdf)
+
+### Additionally (w/o Certificates)
+“English Summer School” at Wrexham Glyndwr University
+“Linux and Network Administration” at PortaOne
+“Game Testing Course” at Level Up (Present)
